@@ -1,6 +1,8 @@
 .env
 venv/
 faiss_index*
-
+# Optional: Add patterns for platform-specific files, logs, etc.
+*.exe  # For Windows executables
+*.dmg  # For macOS disk images
 *.log
 __pycache__
