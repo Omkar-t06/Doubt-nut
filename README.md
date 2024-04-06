@@ -3,13 +3,13 @@
 -----
 ## Introduction
 
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+Tired of staring endlessly at PDFs? Doubt-nut is your innovative solution! Ask questions directly to your PDFs in plain English, and get clear answers powered by AI. No more flipping through pages – Doubt-nut unlocks the knowledge within your notes, making learning active and efficient.
 
 -----
 
 ## How it work?
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![Doubt-Nut App Architecture](./docs/PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
